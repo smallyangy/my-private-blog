@@ -1,6 +1,7 @@
 module.exports = {
     title: '我的文档',
     description: '哈哈哈哈',
+    // 路径名为 "/<REPO>/"
     base: '/my-private-blog/',
     theme: 'reco',
     locales: {
